@@ -3,17 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - DraggableObject
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - IgnoreDraggable
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Draggable
+  - Ground
+  - Obstacles
   - 
   - 
   - 
